@@ -1,25 +1,22 @@
-### Hi there 👋
+# 👋 Hi, I'm Alejandro Avellaneda  
 
-<!--
-**Aleavellaneda1/aleavellaneda1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software developer focused on building **practical, scalable solutions**.  
+I combine code, design, and logic to turn ideas into functional products.  
 
-Here are some ideas to get you started:
-### Languages and tools
-#### Front-end
-[<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="48">](https://developer.mozilla.org/es/docs/HTML/HTML5) [<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48">](https://www.w3schools.com/css/) [<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48">](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Qu%C3%A9_es_JavaScript) [<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="48">](https://getbootstrap.com/) [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSDKn3vA2YUbXzN0ZC3gALWJ08gJN-Drl15w&usqp=CAU" width="48">](https://tailwindcss.com/)  [<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48">](https://sass-lang.com/) [<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="48">](https://jquery.com/) 
-#### Back-end
-[<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="48">](https://www.php.net/) [<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="48">](https://www.python.org/) [<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="48">](https://www.djangoproject.com/) 
-#### Design 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/330px-Figma-logo.svg.png" width="30">](https://www.figma.com/)  [<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" width="48">](https://www.adobe.com/es/products/illustrator.html)  [<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="48">](https://www.adobe.com/es/products/photoshop.html)
-#### Other cool tools
-[<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48">](https://git-scm.com/)  [<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48">](https://github.com/) [<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="48">](https://es.wordpress.org/)  [<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="48">](https://code.visualstudio.com/) [<img src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" width="48">](https://moodle.org/?lang=es)
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I’m working on  
+- Developing **mipyme.com.ar**, a platform to empower small and medium businesses in Argentina.  
+- Continuously learning **Artificial Intelligence**, **automation**, and **web optimization**.
+  
+---
+
+## 🚀 About me  
+- 🌍 Based in Argentina💙🤍💙.  
+- 🔭 Passionate about technology, education, and projects that create real impact.  
+- ⚡ I believe the best code is the one that **solves problems without adding complexity**.  
+- 📫 Reach me at [aleavellaneda1@gmail.com](mailto:aleavellaneda1@gmail.com)
+
+---
+
+> “Simplicity is the ultimate sophistication.” 
