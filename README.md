@@ -1,11 +1,6 @@
 # 👋 Hola, soy Alejandro Avellaneda
-
 <p align="center">
   <img src="assets/banner.svg" alt="Alejandro Avellaneda Banner" width="100%">
-</p>
-
-<p align="center">
-  <strong>Senior Software Engineer | Project Director @ Tudex Networks</strong>
 </p>
 
 <p align="center">
@@ -18,10 +13,9 @@
 
 ### 🧬 Sobre Mí
 
-Construyo tecnología con un enfoque implacable en la **soberanía del software** y la **arquitectura propia**. Mi experiencia abarca desde el desarrollo de sistemas operativos *bare-metal* en Ensamblador y C, hasta la creación de infraestructuras distribuidas y orquestación de agentes inteligentes de IA.
+Construyo tecnología con un enfoque implacable en la **soberanía del software** y la **soberanía de datos**. Mi experiencia abarca desde el desarrollo de sistemas web y móviles, hasta videojuegos, pasando por tiempos de ocio desarrollando sistemas operativos *bare-metal* en Ensamblador y C, hasta la creación de infraestructuras distribuidas y orquestación de agentes inteligentes de IA.
 
-Me apasiona la simplicidad y el rendimiento, siguiendo la filosofía de que *el mejor código es aquel que resuelve problemas complejos con la menor fricción posible*.
-
+Me apasionan la simplicidad, el hardware y el rendimiento de los sistemas limpios. Fuera de las pantallas tradicionales, disfruto explorar la **radioafición y las comunicaciones por satélite**, canalizando este interés en desarrollos de código abierto como [lupampard](https://github.com/aledotsoftware/LUPAMPARD), la implementación de **LU-PAMPARD** (Lima Uniform  -  Protocolo Argentino de Mensajería para Aficionados de Radiodifusión).
 ---
 
 ### 🚀 Proyectos Destacados & Enfoque
@@ -41,13 +35,20 @@ Me apasiona la simplicidad y el rendimiento, siguiendo la filosofía de que *el 
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h4>🎮 Natural Elements Online (NEO)</h4>
+      <p>Un RPG multijugador de mundo abierto publicado en <a href="https://store.steampowered.com/app/3757570/Natural_Elements_Online/" target="_blank">Steam</a>. Explora un entorno místico, recolecta recursos, canaliza energía para crear objetos y conquista mazmorras.</p>
+      <code>C#</code> <code>Unity</code> <code>Multiplayer Networking</code> <code>Steam API</code>
+    </td>
+    <td width="50%" valign="top">
       <h4>🌐 Passport (Mesh & CDN)</h4>
       <p>Redes locales CDN-mesh y arquitecturas de orquestación multi-dominio para garantizar resiliencia, velocidad y soberanía de datos en infraestructuras privadas.</p>
       <code>Serverless</code> <code>Local CDN</code> <code>Mesh Networks</code> <code>Linux Systems</code>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h4>🎨 UI/UX (Aesthetics & Design)</h4>
-      <p>Diseño e implementación de interfaces modernas y refinadas con enfoque en <em>Glassmorphism</em>, temas oscuros profundos (<em>Deep Night</em>) y micro-interacciones fluidas.</p>
+      <p>Diseño e implementación de interfaces modernas y refinadas con enfoque en <em>Glassmorphism</em>, temas oscuros profundos (<em>Deep Night</em>) y micro-interacciones fluidas aplicadas a todos mis ecosistemas y plataformas.</p>
       <code>HTML5</code> <code>CSS3/Sass</code> <code>Vue/Nuxt</code> <code>Figma</code>
     </td>
   </tr>
@@ -62,6 +63,13 @@ Me apasiona la simplicidad y el rendimiento, siguiendo la filosofía de que *el 
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C" height="28" />
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" height="28" />
   <img src="https://img.shields.io/badge/Assembly-x86__64-%230F172A.svg?style=flat-square&logo=assemblyscript&logoColor=white" alt="Assembly" height="28" />
+</p>
+
+#### 🎮 Desarrollo de Videojuegos
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white" alt="C#" height="28" />
+  <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white" alt="Unity" height="28" />
+  <img src="https://img.shields.io/badge/Steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white" alt="Steam API" height="28" />
 </p>
 
 #### 🌐 Web & Backend
