@@ -24,20 +24,20 @@ Me apasionan la simplicidad, el hardware y el rendimiento de los sistemas limpio
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>💻 éterOS (Austral OS)</h4>
-      <p>Un sistema operativo <em>bare-metal</em> para arquitectura x86_64 escrito desde cero. Una inmersión profunda en el funcionamiento interno del hardware, paginación, interrupciones y multitarea.</p>
+      <h4>💻 GNU/eterOS</h4>
+      <p>Un sistema operativo <em>bare-metal</em> para arquitectura x86_64 escrito desde cero. Una inmersión profunda en el funcionamiento interno del hardware, paginación, interrupciones y multitarea. lo desarrollo para aprender mas sobre el funcionamiento interno del hardware y desafiarme mas en lo que respecta a sistemas operativos en general</p>
       <code>C</code> <code>Assembly (x86_64)</code> <code>QEMU</code> <code>Linker Scripts</code>
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 Wisely (Orquestación IA)</h4>
-      <p>Automatización avanzada y orquestación de agentes de IA autónomos (Jules, Bolt) integrados en pipelines de desarrollo de software, testing (QA) y generación dinámica de contenido.</p>
-      <code>Python</code> <code>Node.js</code> <code>LangChain</code> <code>LLM Inferencia</code>
+      <h4>LUPAMPARD (Lima Uniform - Protocolo Argentino de Mensajería para Aficionados de Radiodifusión Digital)</h4>
+      <p>Un protocolo de mensajería para radioaficionados diseñado para funcionar en entornos digitales de baja potencia y alta latencia. lo desarrollo para aportar a la comunidad de radioaficionados de Argentina y desafiarme mas en lo que respecta a transmisión digital sobre canales analógicos ruidosos, implementando algoritmos de corrección de errores (FEC) para recuperar datos perdidos en el ruido de la transmisión.</p>
+      <code>JavaScript</code> <code>TypeScript</code> <code>Web Audio</code> <code>HAMRadio</code> 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🎮 Natural Elements Online (NEO)</h4>
-      <p>Un RPG multijugador de mundo abierto publicado en <a href="https://store.steampowered.com/app/3757570/Natural_Elements_Online/" target="_blank">Steam</a>. Explora un entorno místico, recolecta recursos, canaliza energía para crear objetos y conquista mazmorras.</p>
+  <td width="50%" valign="top">
+      <h4>Natural Elements Online (NEO)</h4>
+      <p>Mi proyecto personal principal y Eterno: un MMORPG de mundo abierto. Explora un entorno místico, recolecta recursos, canaliza energía para crear objetos y conquista mazmorras. Actualmente en desarrollo, añádelo a tu wishlist en <a href="https://store.steampowered.com/app/3757570/Natural_Elements_Online/" target="_blank">Steam</a>.!</p>
       <code>C#</code> <code>Unity</code> <code>Multiplayer Networking</code> <code>Steam API</code>
     </td>
     <td width="50%" valign="top">
