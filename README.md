@@ -1,7 +1,5 @@
 # 👋 Hola, soy Alejandro Avellaneda
-<p align="center">
 
-</p>
 
 <p align="center">
   <a href="https://github.com/aledotsoftware"><img src="https://img.shields.io/badge/Open%20Source-100+%20Repos-818CF8?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Repos"></a>
@@ -41,16 +39,9 @@ Me apasionan la simplicidad, el hardware y el rendimiento de los sistemas limpio
       <code>C#</code> <code>Unity</code> <code>Multiplayer Networking</code> <code>Steam API</code>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 Passport (Mesh & CDN)</h4>
-      <p>Redes locales CDN-mesh y arquitecturas de orquestación multi-dominio para garantizar resiliencia, velocidad y soberanía de datos en infraestructuras privadas.</p>
-      <code>Serverless</code> <code>Local CDN</code> <code>Mesh Networks</code> <code>Linux Systems</code>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h4>🎨 UI/UX (Aesthetics & Design)</h4>
-      <p>Diseño e implementación de interfaces modernas y refinadas con enfoque en <em>Glassmorphism</em>, temas oscuros profundos (<em>Deep Night</em>) y micro-interacciones fluidas aplicadas a todos mis ecosistemas y plataformas.</p>
-      <code>HTML5</code> <code>CSS3/Sass</code> <code>Vue/Nuxt</code> <code>Figma</code>
+      <h4>Tudex Live Chat</h4>
+      <p>Diseñado sobre los principios de **Democracia 4.0**. Este modelo busca no solo habilitar un chat técnico descentralizado, sino también dotar a las comunidades de herramientas integradas para la gobernanza colectiva o de democracia líquida, la privacidad criptográfica y la toma de decisiones descentralizada.</p>
+      <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Node.js</code>
     </td>
   </tr>
 </table>
@@ -104,15 +95,15 @@ Me apasionan la simplicidad, el hardware y el rendimiento de los sistemas limpio
   <table border="0">
     <tr>
       <td align="center" valign="middle">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=aledotsoftware&show_icons=true&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&bg_color=080b10&hide_border=true" alt="Stats de Alejandro" />
+        <img height="180" src="https://github-stats-extended.vercel.app/api?username=aledotsoftware&show_icons=true&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&bg_color=080b10&hide_border=true" alt="Stats de Alejandro" />
       </td>
       <td align="center" valign="middle">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aledotsoftware&layout=compact&title_color=38bdf8&text_color=94a3b8&bg_color=080b10&hide_border=true" alt="Lenguajes de Alejandro" />
+        <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aledotsoftware&layout=compact&title_color=38bdf8&text_color=94a3b8&bg_color=080b10&hide_border=true" alt="Lenguajes de Alejandro" />
       </td>
     </tr>
   </table>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aledotsoftware&background=080b10&fire=818cf8&ring=38bdf8&currStreakNum=38bdf8&currStreakLabel=94a3b8&sideNums=94a3b8&sideLabels=94a3b8&dates=c084fc&hide_border=true" alt="Streak de Alejandro" />
+  <img src="https://streak-stats.demolab.com/?user=aledotsoftware&background=080b10&fire=818cf8&ring=38bdf8&currStreakNum=38bdf8&currStreakLabel=94a3b8&sideNums=94a3b8&sideLabels=94a3b8&dates=c084fc&hide_border=true" alt="Streak de Alejandro" />
 </div>
 
 ---
