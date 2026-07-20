@@ -40,7 +40,7 @@ Me apasionan la simplicidad, el hardware y el rendimiento de los sistemas limpio
     </td>
     <td width="50%" valign="top">
       <h4>Tudex Live Chat</h4>
-      <p>Diseñado sobre los principios de **Democracia 4.0**. Este modelo busca no solo habilitar un chat técnico descentralizado, sino también dotar a las comunidades de herramientas integradas para la gobernanza colectiva o de democracia líquida, la privacidad criptográfica y la toma de decisiones descentralizada.</p>
+      <p>Diseñado sobre los principios de <a href="http://www.democracialiquida.org/" target="_blank">Democracia Líquida</a>. Este modelo busca no solo habilitar un chat técnico descentralizado, sino también dotar a las comunidades de herramientas integradas para la gobernanza colectiva o de democracia líquida, la privacidad criptográfica y la toma de decisiones descentralizada.</p>
       <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Node.js</code>
     </td>
   </tr>
