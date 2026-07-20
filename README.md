@@ -7,15 +7,16 @@
   <a href="https://tudexnetworks.com"><img src="https://img.shields.io/badge/Web-tudexnetworks.com-C084FC?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>
 </p>
 
----
+--
 
 ### 🧬 Sobre Mí
+
 
 Construyo tecnología con un enfoque implacable en la **soberanía del software** y la **soberanía de datos**. Mi experiencia abarca desde el desarrollo de sistemas web y móviles, hasta videojuegos, pasando por tiempos de ocio desarrollando sistemas operativos *bare-metal* en Ensamblador y C, hasta la creación de infraestructuras distribuidas y orquestación de agentes inteligentes de IA.
 <br/>
 <br/>
 Me apasionan la simplicidad, el hardware y el rendimiento de los sistemas limpios. Fuera de las pantallas tradicionales, disfruto explorar la **radioafición y las comunicaciones por satélite**, canalizando este interés en desarrollos de código abierto como [LUPAMPARD](https://github.com/aledotsoftware/LUPAMPARD), (Lima Uniform - Protocolo Argentino de Mensajería para Aficionados de Radiodifusión Digital).
----
+--
 
 ### 🚀 Proyectos Destacados & Enfoque
 
