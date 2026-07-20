@@ -97,7 +97,6 @@ Me apasionan la simplicidad, el hardware y el rendimiento de los sistemas limpio
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="28" />
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" alt="Linux" height="28" />
   <img src="https://img.shields.io/badge/Serverless-%23FD5750.svg?style=flat-square&logo=serverless&logoColor=white" alt="Serverless" height="28" />
-  <img src="https://img.shields.io/badge/NVIDIA%20Multi--GPU-%2376B900.svg?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA GPU" height="28" />
 </p>
 
 ---
