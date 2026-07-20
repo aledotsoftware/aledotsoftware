@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 350" width="100%" height="100%">
+  <!-- Definitions for gradients and filters -->
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080B10" />
+      <stop offset="50%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#030712" />
+    </linearGradient>
+    
+    <!-- Accent Gradients -->
+    <linearGradient id="primary-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" /> <!-- Cyan -->
+      <stop offset="50%" stop-color="#818CF8" /> <!-- Indigo -->
+      <stop offset="100%" stop-color="#C084FC" /> <!-- Purple -->
+    </linearGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1E293B" stroke-width="0.7" stroke-opacity="0.4"/>
+    </pattern>
+
+    <!-- Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bg-gradient)" />
+  <rect width="100%" height="100%" fill="url(#grid)" />
+
+  <!-- Abstract Tech Accents (Network Nodes & Circuits) -->
+  <!-- Circuit lines -->
+  <g stroke="url(#primary-grad)" stroke-width="1.5" stroke-opacity="0.25" fill="none">
+    <path d="M 50,80 L 150,80 L 200,130 L 350,130" />
+    <path d="M 850,220 L 950,220 L 1000,170 L 1150,170" />
+    <path d="M 100,260 L 250,260 L 300,210" />
+    <path d="M 900,80 L 1020,80 L 1070,130" />
+  </g>
+  
+  <!-- Glowing Nodes -->
+  <g fill="none">
+    <circle cx="350" cy="130" r="3.5" fill="#38BDF8" filter="url(#glow)" />
+    <circle cx="300" cy="210" r="3.5" fill="#818CF8" filter="url(#glow)" />
+    <circle cx="850" cy="220" r="3.5" fill="#C084FC" filter="url(#glow)" />
+    <circle cx="1070" cy="130" r="3.5" fill="#38BDF8" filter="url(#glow)" />
+  </g>
+
+  <!-- Big blur background glows -->
+  <circle cx="150" cy="80" r="100" fill="#38BDF8" opacity="0.08" filter="url(#glow)" />
+  <circle cx="1050" cy="270" r="130" fill="#C084FC" opacity="0.08" filter="url(#glow)" />
+  <circle cx="600" cy="175" r="150" fill="#818CF8" opacity="0.04" filter="url(#glow)" />
+
+  <!-- Code symbols floaters -->
+  <g fill="#475569" font-family="monospace" font-size="14" opacity="0.4">
+    <text x="80" y="60">&lt;system_programming&gt;</text>
+    <text x="980" y="295">0x7FFF8000</text>
+    <text x="900" y="60">kernel_init()</text>
+    <text x="120" y="300">asm("mov qword ptr...");</text>
+  </g>
+
+  <!-- Main Name & Title -->
+  <g text-anchor="middle">
+    <!-- Main Name -->
+    <text x="600" y="165" fill="url(#primary-grad)" font-family="'Outfit', 'Inter', system-ui, sans-serif" font-size="46" font-weight="900" letter-spacing="4px" filter="url(#glow)">
+      ALEJANDRO AVELLANEDA
+    </text>
+    
+    <!-- Subtitle / Roles -->
+    <text x="600" y="210" fill="#F1F5F9" font-family="'Inter', system-ui, sans-serif" font-size="16" font-weight="600" letter-spacing="5px" opacity="0.95">
+      SENIOR SOFTWARE ENGINEER  •  PROJECT DIRECTOR
+    </text>
+    
+    <!-- Badges / Keywords -->
+    <text x="600" y="245" fill="#94A3B8" font-family="'Inter', system-ui, sans-serif" font-size="11" font-weight="600" letter-spacing="3px" opacity="0.8">
+      BARE-METAL  |  DISTRIBUTED SYSTEMS  |  AI ORCHESTRATION
+    </text>
+  </g>
+</svg>
