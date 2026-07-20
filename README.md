@@ -14,8 +14,9 @@
 ### 🧬 Sobre Mí
 
 Construyo tecnología con un enfoque implacable en la **soberanía del software** y la **soberanía de datos**. Mi experiencia abarca desde el desarrollo de sistemas web y móviles, hasta videojuegos, pasando por tiempos de ocio desarrollando sistemas operativos *bare-metal* en Ensamblador y C, hasta la creación de infraestructuras distribuidas y orquestación de agentes inteligentes de IA.
-
-Me apasionan la simplicidad, el hardware y el rendimiento de los sistemas limpios. Fuera de las pantallas tradicionales, disfruto explorar la **radioafición y las comunicaciones por satélite**, canalizando este interés en desarrollos de código abierto como [lupampard](https://github.com/aledotsoftware/LUPAMPARD), la implementación de **LU-PAMPARD** (Lima Uniform  -  Protocolo Argentino de Mensajería para Aficionados de Radiodifusión).
+<br/>
+<br/>
+Me apasionan la simplicidad, el hardware y el rendimiento de los sistemas limpios. Fuera de las pantallas tradicionales, disfruto explorar la **radioafición y las comunicaciones por satélite**, canalizando este interés en desarrollos de código abierto como [LUPAMPARD](https://github.com/aledotsoftware/LUPAMPARD), (Lima Uniform - Protocolo Argentino de Mensajería para Aficionados de Radiodifusión Digital).
 ---
 
 ### 🚀 Proyectos Destacados & Enfoque
@@ -68,12 +69,22 @@ Me apasionan la simplicidad, el hardware y el rendimiento de los sistemas limpio
 #### 🎮 Desarrollo de Videojuegos
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white" alt="C#" height="28" />
+  <!-- html css js-->
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="28" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" height="28" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="28" />
   <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white" alt="Unity" height="28" />
   <img src="https://img.shields.io/badge/Steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white" alt="Steam API" height="28" />
 </p>
 
 #### 🌐 Web & Backend
 <p align="left">
+<!-- html css js php-->
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="28" />
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" height="28" />
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="28" />
+<img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP" height="28" />
+<!-- node nuxt react-->
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" height="28" />
   <img src="https://img.shields.io/badge/Nuxt.js-%23002E3B.svg?style=flat-square&logo=nuxt.js&logoColor=%2300DC82" alt="Nuxt.js" height="28" />
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" height="28" />
