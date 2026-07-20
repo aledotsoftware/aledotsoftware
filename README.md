@@ -1,6 +1,6 @@
 # 👋 Hola, soy Alejandro Avellaneda
 <p align="center">
-  <img src="assets/banner.svg" alt="Alejandro Avellaneda Banner" width="100%">
+
 </p>
 
 <p align="center">
@@ -69,7 +69,6 @@ Me apasionan la simplicidad, el hardware y el rendimiento de los sistemas limpio
 #### 🎮 Desarrollo de Videojuegos
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white" alt="C#" height="28" />
-  <!-- html css js-->
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="28" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" height="28" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="28" />
@@ -79,12 +78,10 @@ Me apasionan la simplicidad, el hardware y el rendimiento de los sistemas limpio
 
 #### 🌐 Web & Backend
 <p align="left">
-<!-- html css js php-->
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="28" />
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" height="28" />
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="28" />
-<img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP" height="28" />
-<!-- node nuxt react-->
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="28" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" height="28" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="28" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP" height="28" />
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" height="28" />
   <img src="https://img.shields.io/badge/Nuxt.js-%23002E3B.svg?style=flat-square&logo=nuxt.js&logoColor=%2300DC82" alt="Nuxt.js" height="28" />
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" height="28" />
@@ -107,15 +104,15 @@ Me apasionan la simplicidad, el hardware y el rendimiento de los sistemas limpio
   <table border="0">
     <tr>
       <td align="center" valign="middle">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=aledotsoftware&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats de Alejandro" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=aledotsoftware&show_icons=true&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&bg_color=080b10&hide_border=true" alt="Stats de Alejandro" />
       </td>
       <td align="center" valign="middle">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aledotsoftware&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes de Alejandro" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aledotsoftware&layout=compact&title_color=38bdf8&text_color=94a3b8&bg_color=080b10&hide_border=true" alt="Lenguajes de Alejandro" />
       </td>
     </tr>
   </table>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aledotsoftware&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak de Alejandro" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aledotsoftware&background=080b10&fire=818cf8&ring=38bdf8&currStreakNum=38bdf8&currStreakLabel=94a3b8&sideNums=94a3b8&sideLabels=94a3b8&dates=c084fc&hide_border=true" alt="Streak de Alejandro" />
 </div>
 
 ---
