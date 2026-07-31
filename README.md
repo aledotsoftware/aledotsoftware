@@ -23,7 +23,7 @@ Me apasionan la simplicidad, el hardware y el rendimiento de los sistemas limpio
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>💻 GNU/eterOS</h4>
+      <h4>💻 Unify</h4>
       <p>Un sistema operativo <em>bare-metal</em> para arquitectura x86_64 escrito desde cero. Una inmersión profunda en el funcionamiento interno del hardware, paginación, interrupciones y multitarea. lo desarrollo para aprender mas sobre el funcionamiento interno del hardware y desafiarme mas en lo que respecta a sistemas operativos en general</p>
       <code>C</code> <code>Assembly (x86_64)</code> <code>QEMU</code> <code>Linker Scripts</code>
     </td>
