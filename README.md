@@ -119,10 +119,7 @@ Me apasionan la simplicidad, el hardware y el rendimiento de los sistemas limpio
   <a href="mailto:aleavellaneda1@gmail.com">
     <img src="https://img.shields.io/badge/Enviar%20Correo-aleavellaneda1%40gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
   </a>
-  &nbsp;&nbsp;
-  <a href="https://tudexnetworks.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visitar%20Web-tudexnetworks.com-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
-  </a>
+  
 </p>
 
 <p align="center">
